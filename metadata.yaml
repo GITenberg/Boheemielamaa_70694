@@ -1,0 +1,36 @@
+_repo: Boheemielamaa_70694
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Palola, Eino
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '42797'
+    url: http://www.gutenberg.org/2009/agents/42797
+    wikipedia: https://fi.wikipedia.org/wiki/Eino_Palola
+creator:
+  author:
+    agent_name: Murger, Henri
+    alias: Murger, Henry
+    birthdate: 1822
+    deathdate: 1861
+    gutenberg_agent_id: '6197'
+    url: http://www.gutenberg.org/2009/agents/6197
+    wikipedia: http://en.wikipedia.org/wiki/Henri_Murger
+description: ''
+gutenberg_issued: '2023-05-03'
+identifiers:
+  gutenberg: '70694'
+language: fi
+pgterms:marc905: 20221230131020murger
+pgterms:marc906: '1951'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bKaristo Oy, $c1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Boheemielämää
+url: http://www.gutenberg.org/ebooks/70694
